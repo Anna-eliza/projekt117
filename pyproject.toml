@@ -1,0 +1,13 @@
+[tool.poetry]
+name = "pythonproject113"
+version = "0.1.0"
+description = ""
+authors = ["Анна Елизарова <anna_e1984-26@mail.ru>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.14"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
